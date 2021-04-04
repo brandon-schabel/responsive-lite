@@ -1,0 +1,1 @@
+export { processResponsiveString } from './processResponsiveString'
